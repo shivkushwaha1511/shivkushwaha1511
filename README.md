@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shivkushwaha305@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RExSWMdpb85PPlsmIsI8c0g8OpcaE3qp/view?usp=sharing](https://drive.google.com/file/d/1RExSWMdpb85PPlsmIsI8c0g8OpcaE3qp/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1BveboV52LeB0C1ydZY5hyt1LaIyEDA6k/view](https://drive.google.com/file/d/1BveboV52LeB0C1ydZY5hyt1LaIyEDA6k/view)
 
 - ⚡ Fun fact **I think I am funny**
 
