@@ -1,33 +1,43 @@
-<h1 align="center">Hi 👋, I'm Shiv Kushwaha</h1>
-<h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivkushwaha1511&label=Profile%20views&color=0e75b6&style=flat" alt="shivkushwaha1511" /> </p>
+# 👋 Hi, I'm Shiv Kushwaha
 
-- 🌱 I’m currently learning **MERN**
+🚀 **Full-Stack Developer | MERN Stack Enthusiast | Problem Solver**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivkushwaha1511?tab=repositories](https://github.com/shivkushwaha1511?tab=repositories)
+Welcome to my GitHub! I'm a passionate developer specializing in full-stack web development, particularly with the **MERN stack** (MongoDB, ExpressJS, ReactJS, and NodeJS). I love building dynamic, responsive web applications that solve real-world problems and enhance user experience. Here's a little about me and what I bring to the table!
 
-- 📝 Visit my portfolio [https://shivkushwaha.herokuapp.com/](https://shivkushwaha.herokuapp.com/)
+## 🔧 Technologies & Tools I Work With:
+- **Languages**: JavaScript, C, Java
+- **Frontend**: ReactJS, React Native, HTML, CSS
+- **Backend**: NodeJS, ExpressJS, LoopBack
+- **Databases**: MongoDB, MySQL
+- **Other Tools**: Git, WebSockets, Stripe API, Google Maps API, Socket.io
 
-- 💬 Ask me about **JAVA, C, MERN, HTML & CSS**
+## 💼 Work Experience:
+### Specialist Programmer @ Infosys Ltd, Pune
+- **Migration Expert**: Led the migration of applications from LoopBack 3.x to LoopBack 4.x, enhancing performance and scalability with new features.
+- **UI Development**: Developed UIs for Android-based banking applications, utilizing microservices architecture and server-side rendering for enhanced efficiency.
+- **Tech Stack**: NodeJS, ReactJS, React Native, MongoDB, LoopBack
 
-- 📫 How to reach me **shivkushwaha305@gmail.com**
+### Technical Consultant (Intern) @ Sri Vigneshwara Vidyadeepam Educational Ventures Pvt Ltd, Bangalore
+- Developed and maintained front-end for web applications with a focus on responsive design using **ReactJS**.
+- Collaborated with teams to optimize and customize applications, improving performance while keeping documentation up to date.
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BveboV52LeB0C1ydZY5hyt1LaIyEDA6k/view](https://drive.google.com/file/d/1BveboV52LeB0C1ydZY5hyt1LaIyEDA6k/view)
+## 🛠️ Projects:
+### 1. **Real-Time Bus Tracking System**
+- Built a full-stack web app for real-time tracking of school and college buses using the **MERN stack**.
+- Integrated **Google Maps API** for map rendering and **Socket.io** for real-time updates via WebSockets.
 
-- ⚡ Fun fact **I think I am funny**
+### 2. **Shopvy (E-Commerce Platform)**
+- Developed a full-featured eCommerce platform with **Stripe payment integration**, email notifications, product management, and a sales dashboard.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/shiv-kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shiv-kushwaha" height="30" width="40" /></a>
-<a href="https://fb.com/shiv kushwaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shiv kushwaha" height="30" width="40" /></a>
-<a href="https://instagram.com/error_java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="error_java" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/shivsk1511" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivsk1511" height="30" width="40" /></a>
-</p>
+## 🌱 Currently Exploring:
+- Advanced system architectures and cloud-based solutions.
+- Continuous learning in **data structures and algorithms** to improve my problem-solving skills.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+## 📫 Let's Connect:
+- **Email**: shivkushwaha305@gmail.com
+- **LinkedIn**: [Shiv Kushwaha](https://www.linkedin.com/in/shiv-kushwaha)
+- **GitHub**: [shivkushwaha1511](https://github.com/shivkushwaha1511)
+- **LeetCode**: [shivsk1511](https://leetcode.com/u/shivsk1511)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shivkushwaha1511&show_icons=true&locale=en&layout=compact" alt="shivkushwaha1511" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivkushwaha1511&show_icons=true&locale=en" alt="shivkushwaha1511" /></p>
+Feel free to explore my repositories and projects. I'm always open to collaboration and new opportunities!
